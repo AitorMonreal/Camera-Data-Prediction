@@ -1,6 +1,6 @@
 # Camera Data Prediction
 
-SSM Implementation for Femur Shape Prediction from Depth Camera Data of the exposed knee, segmented using a Convolutional Neural Network and converted into a point cloud
+SSM Implementation for Femur Shape Prediction from Depth Camera Data of the exposed knee, segmented using a Convolutional Neural Network and converted into a point cloud.
 
 The required data for the model mesh (connectivity files,...) has to be generated running the 'model_mesh_variable_creator.py' file first.
 
