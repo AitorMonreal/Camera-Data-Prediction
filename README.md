@@ -1,4 +1,4 @@
-# Camera_Data
+# Camera Data Prediction
 
 The required data for the model mesh (connectivity files,...) has to be generated running the 'model_mesh_variable_creator.py' file first.
 
